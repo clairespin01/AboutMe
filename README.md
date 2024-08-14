@@ -35,8 +35,8 @@ My hobbies include
 
 ## Persons of Interest
 
-[Maquire Mosby] <br>
-<img href="https://github.com/LeopardDragerm" src=""\imgs\F0rueT2XwAAaOx1.jpg"" height="5rem" width="5rem"><br>
+[Maquire Mosby][1]<br>
+<img href="https://github.com/LeopardDragerm" src="\imgs\F0rueT2XwAAaOx1.jpg" height="5rem" width="5rem"><br>
 []
 <img href src="" height="5rem" width="5rem"><br>
 [][3]
