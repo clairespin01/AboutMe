@@ -2,7 +2,7 @@
 ---
 ---
 ## Summary
-Hello My name is Claire Spindler and I am a senior at Gibson Southern high school. I enjoy spending free time with my parents and friends. One of my favorite things to do is get iced coffee and chat. I love exploring new things when it comes to computers and this last summer i spend my time learning three.js and messing with blender.
+Hello My name is Claire Spindler and I am a senior at Gibson Southern high school. I enjoy spending free time with my parents and friends. One of my favorite things to do is get iced coffee and chat. I love exploring new things when it comes to computers and this last summer i spend my time exploring three.js and messing with blender.
 
 [I have a new home]: https://pickerwheel.com/tools/random-number-generator/
 
