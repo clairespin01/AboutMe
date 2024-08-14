@@ -32,3 +32,12 @@ My hobbies include
 ## My Favorite Websites
 [Google Zerg Rush](https://elgoog.im/zergrush/ "Google Zerg Rush")
 [Im being tagged][I have a new home]
+
+## Persons of Interest
+
+[Maquire Mosby] <br>
+<img href="https://github.com/LeopardDragerm" src=""\imgs\F0rueT2XwAAaOx1.jpg"" height="5rem" width="5rem"><br>
+[]
+<img href src="" height="5rem" width="5rem"><br>
+[][3]
+<img href src="" height="5rem" width="5rem"><br>
