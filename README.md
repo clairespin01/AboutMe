@@ -36,8 +36,8 @@ My hobbies include
 ## Persons of Interest
 
 <h4>Maquire Mosby </h4>
-<img href="https://github.com/LeopardDragerm" src="\img\F0rueT2XwAAaOx1.jpg" height="5rem" width="5rem"><br>
+<img href="https://github.com/LeopardDragerm" src="img/F0rueT2XwAAaOx1.jpg" height="5rem" width="5rem"><br>
 <h4>King George III</h4>
-<img href="https://www.royal.uk/george-iii" src="\img\queen-charlotte-king-george-bbde641-1-e1683714886627.jpg" height="5rem" width="5rem"><br>
+<img href="https://www.royal.uk/george-iii" src="img/queen-charlotte-king-george-bbde641-1-e1683714886627.jpg" height="5rem" width="5rem"><br>
 <h4>Kevin</h4>
-<img href="https://despicableme.fandom.com/wiki/Kevin_(Despicable_Me_2)#Personality" src="img\61YxKScRapL._AC_UF894,1000_QL80_.jpg" height="5rem" width="5rem"><br>
+<img href="https://despicableme.fandom.com/wiki/Kevin_(Despicable_Me_2)#Personality" src="img/61YxKScRapL._AC_UF894,1000_QL80_.jpg" height="5rem" width="5rem"><br>
