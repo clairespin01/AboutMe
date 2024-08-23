@@ -41,3 +41,11 @@ My hobbies include
 <a href="https://www.royal.uk/george-iii"><img src="img/queen-charlotte-king-george-bbde641-1-e1683714886627.jpg" height="5rem" width="5rem"></a><br>
 <h4>Kevin</h4>
 <a href="https://despicableme.fandom.com/wiki/Kevin_(Despicable_Me_2)#Personality"><img src="img/61YxKScRapL._AC_UF894,1000_QL80_.jpg" height="5rem" width="5rem"></a><br>
+
+## Favorite Terms
+| Terms | Definitions | My Definition |
+|: --- | :---: | ---: |
+| Stupendous | extremely impressive | amazing |
+| Flourish | grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment. | grow or excell |
+| mimicry | the action or art of imitating someone or something, typically in order to entertain or ridicule. | to copy an action |
+| chiquitita | little girl in spanish | a song by ABBA that frequently gets stuck in my head |
