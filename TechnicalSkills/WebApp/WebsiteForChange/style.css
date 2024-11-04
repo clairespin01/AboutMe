@@ -1,0 +1,178 @@
+/* The code below centers the text of all h1's on the page. */
+h1 {
+    text-align:center;
+}
+
+/* The code below centers the text of all h2's on the page. */
+h2{
+    text-align:center;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:#fff;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+h4{
+    font-size: 1.1rem;
+    text-align:center;
+    color:#fff;
+}
+
+hr{
+    background-color: #102036;
+}
+
+button{
+    background-color: #102036;
+    color: #fff;
+    border: 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: #102036;
+}
+/* The code below centers all images on the page and gives them a width of 400px. */
+.banner-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:800px;
+  border-bottom:2px #102036 solid;
+}
+
+.act{
+    margin: .5rem;
+    font-size: 1rem;
+}
+
+.section-container{
+    background-color: #fff;
+}
+
+.card{
+    background-color: #fff;
+}
+
+.card-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-img-top{
+    border-top: 3px #102036 solid;
+    border-right: 3px #102036 solid;
+    border-bottom: 3px #102036 solid;
+    border-radius: 2px;
+    width: 100%;
+}
+
+.container{
+    width: 100%;
+
+}
+
+.banner{
+    position: relative;
+    text-align: center;
+    color: #102036;
+}
+
+.BannerText{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 6rem;
+}
+
+.nav{
+    background-color: #102036;
+}
+
+.nav-container{
+    background-color: #102036;
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+.navbar-logo{
+    float: left;
+    color:#CAEDC0;
+    font-size: 2rem;
+    padding-bottom: 2rem;
+    margin-right: 5px;
+}
+
+.nav-link{
+    background-color: #102036;
+    font-size: 2rem;
+    float: left;
+    padding-left: .2rem;
+    color:#fff;
+}
+
+.navbar-nav{
+    list-style-type: none;
+    padding-top: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+}
+
+.block{
+    background-color: #102036;
+}
+
+.block-info{
+    background-color: #102036;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.quote{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 1.4rem;
+    color:#fff
+}
+
+/* The code below aligns all the sections horizontally on the bottom. */
+.section-container {
+    display:flex;
+    justify-content:space-around;
+}
+
+.icon-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon{
+    height: 3rem;
+    size-adjust: 400%;
+}
+
+.icon-sec{
+    height: 3rem;
+    text-align: center;
+}
+
+/* The code below a solid black border to section and puts space between them (the margin). */
+.section {
+    border: 5px #102036 solid;
+    border-radius: 8px;
+    margin:5px;
+}
